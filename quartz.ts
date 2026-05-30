@@ -12,7 +12,7 @@ export const layout = await loadQuartzLayout({
           repo: "hostingfaez/blog",
           repoId: "R_kgDOSsXGjw",
           category: "Announcements",
-          categoryId: "DIC_kwDOSsXGj84C-KYl",
+          categoryId: "DIC_kwDOSsXGj84C-KYL",
           lang: "en",
         },
       }),
