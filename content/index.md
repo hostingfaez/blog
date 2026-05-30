@@ -23,7 +23,6 @@ A minimal blog and personal knowledge base powered by **Quartz**. This project f
 - [[Update]]
 
 
-
 <script src="https://giscus.app/client.js"
         data-repo="hostingfaez/blog"
         data-repo-id="R_kgDOSsXGjw"
