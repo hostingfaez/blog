@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Faez's Blog
+  pageTitle: Faez Blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -41,19 +41,6 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-  - source: github:quartz-community/comments
-    enabled: true
-    options:
-      provider: giscus
-      options:
-        repo: hostingfaez/blog
-        repoId: R_kgDOSsXGjw
-        category: Announcements
-        categoryId: DIC_kwDOSsXGj84C-KYl
-        lang: en
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -209,25 +196,6 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
-    enabled: true
-    options:
-      provider: giscus
-      options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
-        category: Announcements
-        categoryId: TODO:your-category-id
-        mapping: url
-        strict: true
-        reactionsEnabled: true
-        inputPosition: bottom
-        lightTheme: light
-        darkTheme: dark
-        lang: en
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/footer
     enabled: true
     options:
@@ -273,6 +241,15 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/comments
+    enabled: false
+    options:
+      provider: giscus
+      options: {}
+    order: 50
+    layout:
+      position: afterBody
+      priority: 10
 layout:
   groups:
     toolbar:
