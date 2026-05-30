@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Faez's Blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -41,6 +41,20 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+plugins:
+  - source: github:quartz-community/comments
+    enabled: true
+    options:
+      provider: giscus
+      options:
+        repo: hostingfaez/blog
+        repoId: R_kgDOSsXGjw
+        category: Announcements
+        categoryId: DIC_kwDOSsXGj84C-KYl
+        lang: en
+    layout:
+      position: afterBody
+      priority: 10
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
