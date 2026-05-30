@@ -1,0 +1,13 @@
+---
+{}
+---
+So masa turun tu kitorang turun sesama ada dalam 10 orang. But disebabkan group yang 5 depan tu laju sangat we were split up and tunggu dekat Ulu Bendul. And the trek masyallah kalau naik pon dah sakit inikan turun sama je sakit jugak HAHAHA. Dia sakit bukan sebab apa tau sebab dia turun yang memang menegak. Bayangkan kalau korang nak naik menegak haaa camtula. Alhamdulillah trek tak licin so senang sikit la nak turun.
+
+Ada sebab kenapa trek ni susah. 
+
+1. Ada satu part tu kitorang kena lintas satu sungai and air dia sangat sangat deras. And ada tali yang diikat dekat pokok dari hujung ke hujung untuk pendaki pegang tali sambil pijak batu sungai yang licin untuk lintas sungai yang deras tu.
+And masa aku lintas tu kasut aku dia tak grip sangat untuk batu and i slipped bruh. Masa tu nasib aku pegang tali and aku memang dah dekat sangat dah masuk dalam air.Kalau aku tak pegang memang dah kena bawak dengan air time tu. Kaki aku pun dah basah dah and masa jatuh tu kaki aku termasuk celah batu and tersangkut. Aku pun lepaskan tali slow slow and pegang batu sambil try nak keluarkan kaki and Alhamdulillah boleh keluarkan and teruskan macam biasa.
+2. Masa nak naik and masa nak turun memang jauh beza. Masa aku naik trek Jalan Lama Bukit Putus around 1 H and 40 Mins so kalau turun masa dia pun dekat and tak jauh sangat la. Masa aku turun dari puncak Gunung Angsi ke Ulu Bendul is **5 H and 20 Mins** LOL. Aku rasa lama sangat sebab trek dia memang susah and aku beryukur masa naik ikut trek Jalan Lama Bukit Putus tak extreme sangat so aku ada masa nak warmup.
+Sampaikan masa tengah turun tu aku tanya abang Khir tu jauh lagi tak and abang tu gelak je and cakap sikit je lagi nak sampai dah. Aku dengar dia gelak aku dah start mental dah HAHAHA. Masa otw turun tu kitorang borak & buat lawak semua and masih gelak gelak lagi Sampai around km ke 8 macamtu semua dah senyap dah HAHAHAHA and bila rasa nak bukak mulut pon fikir 2 3 kali jugakla.
+
+And **Akhirnya **sampai jugak Ulu Bendul. Masa dah sampai tu dah fikir dah nak jalan tapi kaki dah penat sangat ni. Then akak tu dia ikut Abang Khir dah alang alang nak ke starting point. Tetau Abang tu dia tahan keta 4x4 HAHAHAHAHA. So aku pun lari la sebab tanak kena tinggal. Dah satu core pulak aku, Abang Khir dengan akak tu naik belakang Ford tu and alhamdulilah abang tu baik and hantar kitorang sampai starting point. Semoga Allah balas perbuatan abang lagi berganda dari apa yang abang buat. Amin. And Abang Khir pon bawakla kereta dia ( Alza ) pickup yang dekat Ulu Bendul and drop off. 
