@@ -6,6 +6,13 @@ Notes : Log update include changes to the framework or structure for **ALL** of 
 
 Update Version : MAJOR.MINOR.PATCH
 
+### Update 1.3.2
+2026-05-31 09:34
+- Commit :
+1. Add comment to blog page 
+2. transfer all hosting website to another account for easy view later on
+
+
 ### Update 1.3.1
 2026-04-26 18:20
 - Commit :
