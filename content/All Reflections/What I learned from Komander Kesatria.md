@@ -26,4 +26,9 @@ Aku rasa ni paling crucial sebab kena juggle antara study and komander. Ada bany
 Suprisingly aku dapat Jasin balik so aku lapor jela balik tapi sekarang aku dah pegawai muda so first sem aku masuk kena buat design baju untuk peg muda.
 ![[Pasted image 20260321232335.png]]
 
+### Kursus Outdoor Recreational Level 1
+Certification under Persatuan Jurulatih Rekreasi Malaysia (PJRM) certified by Kementarian Belia dan Sukan Malaysia (KBS). These certification are suitable to those who are involved or interested to become outdoor recreation or education instructor.Basically 4 hari sepanjang kursus ni dan ada jam yang kitorang perlu lengkapkan untuk setiap module untuk dapatkan sijil.Activity yang kitorg buat abseiling, zipline, compass and map reading, orienteering, jungle trekking, kayaking, camping, survival.
+
+![[kayak.JPG]]
+
 More to come !

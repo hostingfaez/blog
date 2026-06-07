@@ -31,4 +31,4 @@ Rear:  A   |   A
 
 Bila dah siap buat alignement so that tak lari.
 
-![[Untitled-1.jpeg]]
+![[untitled-1.jpeg]]

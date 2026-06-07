@@ -17,6 +17,3 @@ sed -i "s|Exec=kitty|Exec=/home/f8un/.local/kitty.app/bin/kitty|g" ~/.local/shar
 sudo ln -sf /home/f8un/.local/kitty.app/bin/kitty /usr/local/bin/kitty
 ```
 
-### Config
-
-Github file : kitty.conf

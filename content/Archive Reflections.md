@@ -20,13 +20,6 @@ Parent Item: [[Hike to Gunung Angsi !]]
 - [[Puncak]]
 - [[Descent]]
 
-### Diploma Internship
----
-Parent Item: [[Diploma Internship !]]
-- [[Main Project Cont]]
-- [[Side Quest]]
-- [[Final Report]]
-
 ### How It All Began (Recommended!)
 ---
 **My journey to computer science stream**
@@ -34,7 +27,6 @@ Parent Item: [[Diploma Internship !]]
 - [[Child]]
 - [[Land Rover 4x4 In Schools National Finals]]
 - [[Diploma]]
-- [[Bachelor’s Degree]]
 
 ### Dubai (Recommended!)
 ---
@@ -54,14 +46,10 @@ Parent Item: [[Dubai Dumps]]
 ---
 - [[First Page]]
 - [[Beyond Medals and Metrics]]
-- [[Heroic Act in Sabah (kind of)]]
-- [[Books & Journal !]]
 - [[Inner Child in Gaming]]
 - [[Konvokesyen Diploma !]]
 - [[Mini Food Hunt in Penang]]
-- [[My Source of Inspiration Who I Never Met]]
 - [[Penang War Museum]]
-- [[Racing Thoughts While Walking]]
 - [[T490s Modification]]
 - [[Tayar Botak, Time to Change]]
 - [[Tuan Aznil]]

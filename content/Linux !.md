@@ -8,7 +8,12 @@
 > 
 > [https://github.com/FaezBun/mydotfiles](https://github.com/FaezBun/mydotfiles)
 
-![[215.jpg]]
+![[content/Assets/215.jpg]]
+
+Quick Note : Im writing a book about a step by step guide to install 
+1. Debian 
+2. Ubuntu Server in Proxmox 
+(in a different book) so stay tune !
 
 
 ### Guide to change to Linux (Recommended!)
@@ -27,19 +32,11 @@
 - [[Pi-Hole]]
 - [[CasaOS]]
 
-### Linux Kernel Development
----
-**Kernel Development**
-- Parent Item:  [[Linux Kernel]]
-- [[Installation]]
-- [[Mailing List and Docs]]
-- [[quartz/content/All Reflections/Configuration|Configuration]]
-
 ### Virtual Machine (Debian & FreeBSD)
 ---
 Parent Item: [[Virtual Machine (QEMU)]]
 - [[FreeBSD]]
-- [[Configuration]] ; for Debian 
+- [[content/All Reflections/Configuration|Configuration]] ; for Debian 
 - [[User not in sudoers file]] ; for Debian 
 
 
@@ -47,7 +44,6 @@ Parent Item: [[Virtual Machine (QEMU)]]
 ---
 Parent Item: [[Gnome Desktop Environment]]
 - [[Extensions]]
-- [[Accidentally Purge Gnome Desktop]]
 
 ### Web Hosting
 ---

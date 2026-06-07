@@ -26,4 +26,3 @@ Seperti yang korang nampak tiang dia adalah corak macam ukiran pokok and tu adal
 
 So sekarang ni aku dalam masjid tempat lelaki sembahyang. Pintu nak masuk ke tempat sembahyang pakai sensor dah macam shopping mall. Dalam tempat sembahyang tak boleh tangkap gambar sebenarnya. Dia punya atap mashallah ukiran bunga halus sangat.
 
-![[Untitled 20.jpeg]]
