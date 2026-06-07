@@ -33,7 +33,7 @@ Quick Note : Im writing a book about a step by step guide to install
 - [[CasaOS]]
 
 ### Virtual Machine (Debian & FreeBSD)
----
+--- 
 Parent Item: [[Virtual Machine (QEMU)]]
 - [[FreeBSD]]
 - [[content/All Reflections/Configuration|Configuration]] ; for Debian 
