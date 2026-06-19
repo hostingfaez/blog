@@ -6,6 +6,13 @@ Notes : Log update include changes to the framework or structure for **ALL** of 
 
 Update Version : MAJOR.MINOR.PATCH
 
+### Update 1.3.3
+2026-06-19 23:10
+- Commit :
+1. Add GIFs to the website
+2. Update Books website (add coming soon banner) 
+3. Add [[Books I've Read]] 
+
 ### Update 1.3.2
 2026-05-31 09:34
 - Commit :
