@@ -6,5 +6,9 @@
 4. Wiest, B. (2020). _The Mountain Is You : transforming self-sabotage into self-mastery_. Thought Catalog Books. **(Recommended !**)
 5. Osmani, A. (2025). _Vibe Coding: the Future of Programming_. O’Reilly Media.
 6. Huyen, C. (2022). _Designing Machine Learning Systems_. “O’Reilly Media, Inc.”
+7. Teme Abdullah. (2016). Pelukis Jalanan. Iman Publications **(Recommended !**)
+8. Teme Abdullah. (2018). _Arkitek Jalanan_. Iman Publications. **(Recommended !**)
+
+‌
 
 ‌
