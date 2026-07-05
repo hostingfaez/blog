@@ -31,7 +31,7 @@ Quick Note : Im writing a book about a step by step guide to install
 - [[File Transfer ( Samba Protocol )]]
 - [[Pi-Hole]]
 - [[CasaOS]]
-- 
+- [[Auto Start Server (Qemu)]]
 
 ### Virtual Machine (Debian & FreeBSD)
 --- 
