@@ -44,7 +44,7 @@ Parent Item: [[Gnome Desktop Environment]]
 ### Web Hosting
 ---
 **Sub items included for web hosting** 
-- Parent Item: [[Git]]
+- Parent Item: [[Git & Github]]
 - [[Token ( Tak Boleh Push First Time Usage)]] ; Git
 - [[Live Viewer Website]] 
 - [[Quartz]] ; npx quartz sync
