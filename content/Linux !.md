@@ -10,10 +10,6 @@
 
 ![[content/Assets/215.jpg]]
 
-Quick Note : Im writing a book about a step by step guide to install 
-1. Debian 
-2. Ubuntu Server in Proxmox 
-(in a different book) so stay tune !
 
 
 ### Guide to change to Linux (Recommended!)
@@ -29,16 +25,15 @@ Quick Note : Im writing a book about a step by step guide to install
 - Parent Item: [[Ubuntu Server]]
 - [[Docker]]
 - [[File Transfer ( Samba Protocol )]]
-- [[Pi-Hole]]
 - [[CasaOS]]
-- [[Auto Start Server (Qemu)]]
-
 ### Virtual Machine (Debian & FreeBSD)
 --- 
 Parent Item: [[Virtual Machine (QEMU)]]
 - [[FreeBSD]]
 - [[content/All Reflections/Configuration|Configuration]] ; for Debian 
 - [[User not in sudoers file]] ; for Debian 
+- [[Auto Start Server]]
+
 
 
 ### Desktop Environment
