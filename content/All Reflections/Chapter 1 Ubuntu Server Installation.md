@@ -1,7 +1,3 @@
----
-{}
----
-### Installation
 
 Static IP
 
@@ -19,8 +15,13 @@ Then SSH
 
 ![[image 21.png]]
 
+Kalau guna laptop
+
 ```bash
 sudo vim /etc/systemd/logind.conf
+```
+
+```bash
 #tukar 
 HandleLidSwitch=ignore
 HandleLidSwitchExternalPower=ignore

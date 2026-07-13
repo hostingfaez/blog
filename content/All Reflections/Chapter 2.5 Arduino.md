@@ -1,0 +1,2 @@
+Install : `flatpak install flathub cc.arduino.IDE2`
+
