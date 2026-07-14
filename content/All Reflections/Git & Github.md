@@ -1,7 +1,7 @@
 ---
 {}
 ---
-
+Install : `sudo apt install git`
 ## Setup Git (Folder)
 
 Buat repository dalam github **Without README file** untuk ease kan process. Boleh tambah readme lepas push the first commit code nanti.

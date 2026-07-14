@@ -14,11 +14,19 @@ Chapter 2 Apps Installation
 	
 [[Chapter 2.3 Putty]]
 	
-[[Chapter 2.4 KVM & Qemu]]
+[[Chapter 2.4 KVM & Qemu]] ; Kernel Virtual Machine 
 	
 [[Chapter 2.5 Arduino]]
 	
 [[Chapter 2.6 Packet Tracer]]
+
+[[Chapter 2.7 CMUS]] ; C* Music Player
+
+[[Chapter 2.8 Obsidian]]
+
+[[Chapter 2.9 Full Latex & Zathura]] 
+
+[[Chapter 2.98 Appimage Files]]
 
 [[Chapter 2.99 Deb Files]]
 

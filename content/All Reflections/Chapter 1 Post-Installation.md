@@ -40,6 +40,16 @@ deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 
 4. update and upgrade `apt update && apt upgrade -y`
 5. Install curl `apt install curl`
-6. (usernmae is not in sudoers file) masuk dalam username: `su - username` & restart laptop kalau error lagi
+6. (username is not in sudoers file) masuk dalam username: `su - username` & restart laptop kalau error lagi
+7. Maps caps lock key as Esc key
 
+```bash
+	gsettings set org.gnome.desktop.input-sources xkb-options "['caps:escape']"
+```
 
+8. Install Vim plugin manager 
+
+```bash
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
