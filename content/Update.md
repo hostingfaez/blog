@@ -6,6 +6,13 @@ Notes : Log update include changes to the framework or structure for **ALL** of 
 
 Update Version : MAJOR.MINOR.PATCH
 
+### Update 1.3.4
+2026-07-14 12:33
+- Commit :
+1. move linux content to another folder (from All Reflections)
+2. Start Debian and Ubuntu documentations wiki (sort of)
+3. i speak no ingles but IM EXCITED
+
 ### Update 1.3.3
 2026-06-19 23:10
 - Commit :
