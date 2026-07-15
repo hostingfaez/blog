@@ -5,7 +5,6 @@
 
 ![[content/Assets/215.jpg]]
 
-
 ### Change OS 
 ---
 **Change from one operating system to another.**

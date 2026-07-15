@@ -36,7 +36,7 @@ sudo update-grub
 sudo reboot
 ```
 
-### Power Management (TLP)
+TLP Power Management (battery)
 
 ```bash
 sudo apt install tlp
