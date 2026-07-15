@@ -2,9 +2,6 @@
 {}
 ---
 
-
-![[content/Assets/215.jpg]]
-
 ### Change OS 
 ---
 **Change from one operating system to another.**
@@ -29,4 +26,4 @@ Example : Windows -> Linux
 - [[Quartz]] ; npx quartz sync
 
 
-
+![[content/Assets/215.jpg]]
