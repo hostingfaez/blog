@@ -1,4 +1,9 @@
+1. Fork Repo dalam github website (kanan atas)
 
+![[Pasted image 20260716112832.png]]
+
+2. Clone repo (kalau takde lagi folder dalam workstation)
+3. `git pull origin main` (kalau ada lebih dari sorang yang conribute dalam project ni and ada recent changes yang berlaku untuk sync dengan code repo latest)
 
 Error
 

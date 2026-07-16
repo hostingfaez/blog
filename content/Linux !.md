@@ -26,4 +26,4 @@ Example : Windows -> Linux
 - [[Quartz]] ; npx quartz sync
 
 
-![[content/Assets/215.jpg]]
+![[capitalist.jpg]]
