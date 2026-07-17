@@ -31,4 +31,8 @@ Chapter 3 Install Printer Driver
 
 ---
 
+[[Chapter 5 Change Nama Default Folders]] ; eg. Desktop,Downloads,Musics
+
+---
+
 [[Chapter 99 Uninstall Commands]]
