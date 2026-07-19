@@ -53,3 +53,8 @@ deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
+
+9. Jadikan vim default text editor
+```bash
+git config --global core.editor "vim"
+```
