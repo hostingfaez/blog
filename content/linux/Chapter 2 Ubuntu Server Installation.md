@@ -1,3 +1,8 @@
+Link ISO : https://ubuntu.com/download/server & kalau nak masukkan dalam USB boleh tengok [[Change Another OS]]
+
+> **Rule of thumb** 
+> HDD : All things that you want to store eg. books, media (photos and videos), songs, code etc.
+> SSD : System file (Ubuntu Server in this case) untuk dia load lebih cepat and ISOs (depends if tak banyak sangat )
 
 Static IP
 

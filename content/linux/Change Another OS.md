@@ -4,7 +4,7 @@ Install dependencies
 sudo apt install libfuse2 -y
 ```
 
-Download Balena Etcher 
+Download Balena Etcher and change permission
 
 ```bash
 chmod +x balenaEtcher
