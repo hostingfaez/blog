@@ -6,7 +6,7 @@
 ---
 **More kepada Fitness**
 - Parent Item: [[Project X]]
-- [[Georgetown Half Marathon ( 5 KM )]]
+- [[Georgetown Half Marathon ( 5 KM )]] & [[Mini Food Hunt in Penang]]
 - [[Perak Sprint Triathlon]]
 - [[Seremban Half 2025]]
 
@@ -27,6 +27,7 @@ Parent Item: [[Hike to Gunung Angsi !]]
 - [[Child]]
 - [[Land Rover 4x4 In Schools National Finals]]
 - [[Diploma]]
+- [[Konvokesyen Diploma !]]
 
 ### Dubai (Recommended!)
 ---
@@ -47,8 +48,6 @@ Parent Item: [[Dubai Dumps]]
 - [[First Page]]
 - [[Beyond Medals and Metrics]]
 - [[Inner Child in Gaming]]
-- [[Konvokesyen Diploma !]]
-- [[Mini Food Hunt in Penang]]
 - [[Penang War Museum]]
 - [[T490s Modification]]
 - [[Tayar Botak, Time to Change]]

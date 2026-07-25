@@ -53,3 +53,8 @@ Right click dekat drive yang korang baru clean tadi (Drive 1,2...) and bukannya 
 
 
 Right click partition box and select New Simple Volume and tekan next sampai habis.
+
+
+> **Rule of thumb** 
+> HDD : All things that you want to store eg. books, media (photos and videos), songs, code etc.
+> SSD : System file (Ubuntu Server in this case) untuk dia load lebih cepat and ISOs (depends if tak banyak sangat )

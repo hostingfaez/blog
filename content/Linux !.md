@@ -16,7 +16,7 @@ Example : Windows -> Linux
 
 ### Server Documentations (In Progress!)
 ---
-[[Server Docs]]
+[[Ubuntu Server Docs]]
 
 ### Web Hosting
 ---
