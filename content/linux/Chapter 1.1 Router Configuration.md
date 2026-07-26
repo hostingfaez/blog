@@ -9,7 +9,7 @@ For example ip address and subnet server:
 Korang kena access router via web browser (firefox,chrome) dekat mana mana computer dengan syarat korang connect dalam network yang sama. By default ip router adalah sama (may differ).
 
 ```
-https://192.168.1.1
+http://192.168.1.1
 ```
 
 Macam mana nak tau username dengan password.

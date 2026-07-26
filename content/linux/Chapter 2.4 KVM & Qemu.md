@@ -17,6 +17,12 @@ Aktifkan service (run automatic bila Debian on)
 sudo systemctl enable --now libvirtd
 ```
 
+Auto start network
+
+```bash
+sudo virsh net-start default
+sudo virsh net-autostart default
+```
 List all running vms
 
 ```bash
@@ -38,3 +44,4 @@ Autostart VM (specific)
 ```
 virsh autostart namaserver
 ```
+
