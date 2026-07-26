@@ -17,6 +17,8 @@ Chapter 2 Apps Installation
 - [[Chapter 2.8 Obsidian]]
 - [[Chapter 2.9 Full Latex & Zathura]] 
 - [[Chapter 2.10 Docker Compose]]
+- [[Chapter 2.11 Wallpapers]]
+- [[Chapter 2.12 Fastfetch]]
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]
 

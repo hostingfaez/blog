@@ -1,0 +1,3 @@
+Terminal : https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperbat.com%2Fimg%2F138889897-mountain-peace-dark-sky-nature.jpg&f=1&nofb=1&ipt=a81c557559628f642a14d8df160b9e79dd3b67e9bc60678da9f0ef8edc4cd010 
+
+Desktop : https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperbat.com%2Fimg%2F123414862-peaceful-wallpaper-4k-landscape-dreamlike.jpg&f=1&nofb=1&ipt=bd5b2c74d259777b0703cc0d5b1e4f82bc37471b238a27552b9bb852b2ec9eaa
