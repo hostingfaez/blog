@@ -1,6 +1,7 @@
 [[Writer's Notes]] Kenapa dia nak pakai Debian?
 
 ---
+Install : https://www.debian.org/distrib/
 
 [[Chapter 1 Post-Installation]]
 

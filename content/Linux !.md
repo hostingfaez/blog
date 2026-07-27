@@ -16,8 +16,8 @@ Example : Windows -> Linux
 ### OS Documentations 
 
 ---
-- [[Debian Docs]]
-- Void Linux ; Coming Soon !
+- [[Debian Docs]] (GNOME)
+- [[Debian Xenl Docs]] ; Coming Soon !
 - [[Ubuntu Server Docs]]
 - Proxmox ; Coming Soon !
 
