@@ -4,11 +4,11 @@ Buka Vim
 vim
 ```
 
-Install 
+Install (tekan : )
 
 - **Python:** `:CocInstall coc-pyright`
     
-- **C / C++:** `:CocInstall coc-clangd`
+- **C / C++:** `:CocInstall coc-clangd` & `sudo apt install clangd -y`
     
 - **HTML / CSS / JavaScript:** `:CocInstall coc-tsserver coc-html coc-css`
 

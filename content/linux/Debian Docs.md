@@ -19,8 +19,9 @@ Chapter 2 Apps Installation
 - [[Chapter 2.10 Docker Compose]]
 - [[Chapter 2.11 Wallpapers]]
 - [[Chapter 2.12 Fastfetch]]
-- [[Chapter 2.13 Vim Plugins]]
-	- [[Chapter 2.13.1 COC.NVIM]] ; Autocompletion
+- [[Chapter 2.13 Neovim Plugin Manager]] ; Vim Plug
+	- [[Chapter 2.13.1 COC.NVIM]] ; Autocompletion for coding 
+	- Chapter 2.13.2 VimTex ; Latex for Vim
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]
 

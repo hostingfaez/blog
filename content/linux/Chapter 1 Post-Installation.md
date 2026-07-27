@@ -47,14 +47,8 @@ deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 	gsettings set org.gnome.desktop.input-sources xkb-options "['caps:escape']"
 ```
 
-8. Install Vim plugin manager 
-
-```bash
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-```
-
 9. Jadikan vim default text editor
+
 ```bash
 git config --global core.editor "vim"
 ```
