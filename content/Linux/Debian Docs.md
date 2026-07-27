@@ -20,8 +20,9 @@ Chapter 2 Apps Installation
 - [[Chapter 2.11 Wallpapers]]
 - [[Chapter 2.12 Fastfetch]]
 - [[Chapter 2.13 Neovim Plugin Manager]] ; Vim Plug
-	- [[Chapter 2.13.1 COC.NVIM]] ; Autocompletion for coding 
-	- Chapter 2.13.2 VimTex ; Latex for Vim
+	- [[Chapter 2.13.1 coc.nvim]] ; Autocompletion for coding 
+	- Chapter 2.13.2 VimTex  For latex
+- [[Chapter 2.14 Live Viewer Website]] ; for live preview while editing website
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]
 
@@ -36,7 +37,7 @@ Chapter 3 Install Printer Driver
 
 ---
 
-[[Chapter 5 Change Nama Default Folders]] ; eg. Desktop,Downloads,Musics
+[[Chapter 5 Change Nama Default Folders]] ; eg. Desktop,Downloads,Music
 
 ---
 

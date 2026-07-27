@@ -1,4 +1,4 @@
-Link ISO : https://ubuntu.com/download/server & kalau nak masukkan dalam USB boleh tengok [[Change Another OS]]
+Link ISO : https://ubuntu.com/download/server & kalau nak masukkan dalam USB boleh tengok [[Linux]]
 
 > Note: I install Ubuntu Server in virtual machine and the setup may differ. 
 

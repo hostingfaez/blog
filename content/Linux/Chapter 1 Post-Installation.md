@@ -9,10 +9,12 @@ Software selection boleh try mana dekstop environment yang korang nak but for is
 
 1. Masuk root `su -`
 2. Masukkan user dalam group sudo
+
 ```bash
 	/usr/sbin/usermod -aG sudo username
 ```
-1. Install vim `apt install vim`
+
+3.  Install vim `apt install vim`
 
 Error: The repository 'cdrom://[Debian GNU/Linux 13.6.0 Trixie - Official amd64 DVD Binary-1 with firmware 20260711-09:43] trixie Release' does not have a Release file.
 ```bash
@@ -47,7 +49,7 @@ deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 	gsettings set org.gnome.desktop.input-sources xkb-options "['caps:escape']"
 ```
 
-9. Jadikan vim default text editor
+8. Jadikan vim default text editor
 
 ```bash
 git config --global core.editor "vim"

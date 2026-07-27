@@ -1,6 +1,8 @@
 ---
 {}
 ---
+The reason why I don't put this chapter in every OS that i have because it will be redundant since its the same thing and to make the contents in this chapter consistent.
+
 Install : `sudo apt install git`
 
 - [[Chapter 1.1 Setup Git (Folder)]]

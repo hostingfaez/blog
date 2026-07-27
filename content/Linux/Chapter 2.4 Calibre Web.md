@@ -33,8 +33,8 @@ http://192.168.122.11:8083
 ![[Pasted image 20260726112350.png]]
 
 Default 
-Username:admin
-Password:admin123
+
+Username:admin & Password:admin123
 
 Masukkan dalam folder buku (elakkan masuk dalam folder calibre web untuk mengelakkan db hilang kalau update)
 

@@ -2,28 +2,32 @@
 {}
 ---
 
-### Change OS 
+### Change to Another OS 
+
 ---
+
 **Change from one operating system to another.**
 Example : Windows -> Linux
-> **WAJIB BUAT** kalau nak tukar Operating System
+> MANDATORY kalau nak tukar Operating System
 
-[[Change Another OS]]
+- [[Linux]]
+- [[Windows]]
 
-### Debian Documentations 
+### OS Documentations 
+
 ---
-[[Debian Docs]]
+- [[Debian Docs]]
+- Void Linux ; Coming Soon !
+- [[Ubuntu Server Docs]]
+- Proxmox ; Coming Soon !
 
-### Server Documentations (In Progress!)
----
-[[Ubuntu Server Docs]]
+### Others
 
-### Web Hosting
 ---
-**Sub items included for web hosting** 
-- Parent Item: [[Git & Github]]
-- [[Live Viewer Website]] 
-- [[Quartz]] ; npx quartz sync
+- [[Chapter Z1 Git & Github]]  
+	1. (Recommended) if you are using your workstations / server for coding for personal use or collaborate with others.
+	2. (Not recommended) for users who doesn't code since the learning curve is a bit high.
+- Chapter Z2 Quartz ; npx quartz sync
 
 
 ![[capitalist.jpg]]

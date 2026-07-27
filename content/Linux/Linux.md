@@ -1,3 +1,4 @@
+
 Install dependencies
 
 ```bash
@@ -15,8 +16,6 @@ chmod +x balenaEtcher
 
 Guna balena Etcher & pastikan usb tu ada bila connect dengan computer. Check dekat Disks boleh or dekat terminal. Kita punya external disk yang SDA tu
 
-Linux
-
 ```bash
 lsblk
 ```
@@ -29,7 +28,6 @@ nvme0n1     259:0    0 931.5G  0 disk
 └─nvme0n1p2 259:2    0 930.5G  0 part /
 ```
 
-Windows
 
 Pastikan amik hard drive/ USB stick yang betul bukannya drive computer kita and flash!
 

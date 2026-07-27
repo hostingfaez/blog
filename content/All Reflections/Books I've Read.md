@@ -9,6 +9,7 @@
 7. Huyen, C. (2022). _Designing Machine Learning Systems_. “O’Reilly Media, Inc.”
 8. Teme Abdullah. (2016). Pelukis Jalanan. Iman Publications **(Recommended !**)
 9. Teme Abdullah. (2018). _Arkitek Jalanan_. Iman Publications. **(Recommended !**)
+10. Newport, C. (2019). _Digital Minimalism: Choosing a Focused Life in a Noisy World_. Portfolio/Penguin. **(Recommended !**)
 
 ‌
 
