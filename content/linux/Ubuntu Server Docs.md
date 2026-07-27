@@ -23,6 +23,6 @@ services
 - [[Chapter 2.1 Samba]] ; File sharing protocol
 - [[Chapter 2.2 Docker Compose]]
 - [[Chapter 2.3 Navidrome]] ; Music hosting 
-- [[Chapter 2.4 Calibre Web]] ; book hosting
+- [[Chapter 2.4 Calibre Web]] ; Book hosting
 
 Coming Soon !
