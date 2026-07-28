@@ -11,3 +11,4 @@ Install : `sudo apt install git`
 - [[Chapter 1.4 Rollback]] (Commit ke existing state aka version history)
 - [[Chapter 1.5 Change Repo]]
 - [[Chapter 1.6 Fork]]
+- [[Chapter 1.7 Store Code in Server using Git]]
