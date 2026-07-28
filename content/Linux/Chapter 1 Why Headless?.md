@@ -1,5 +1,5 @@
-Aku terfikir la aku macam nak try other DE eg. LXQT, XFCE etc. and other window manager jugak since aku tengah guna GNOME sekarang.
+Disebabkan headless version ni bare installation aku nak try and belajar beberapa benda.
 
-So semua benda ni aku boleh buat dalam virtual machine and the risk of my data hilang tu takdela since semua changes dekat dalam VM SAHAJA.
+> Note : Desktop environment yang Debian provide aku takkan try eg. Cinammon, kde, LXQT etc.
 
-And ada banyak lagi benda yang aku nak try. 
+

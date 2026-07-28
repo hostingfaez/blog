@@ -24,6 +24,7 @@ Chapter 2 Apps Installation
 	- [[Chapter 2.13.1 coc.nvim]] ; Autocompletion for coding 
 	- Chapter 2.13.2 VimTex  For latex
 - [[Chapter 2.14 Live Viewer Website]] ; for live preview while editing website
+- Chapter 2.15 Git to Server ; Coming Soon !
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]
 
