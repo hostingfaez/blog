@@ -11,4 +11,4 @@ Download : https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 Chapter 2 Installation
 - [[Chapter 2.1 Paritioning]]
 	- [[Chapter 2.1.1 1TB Partitioning]]
-- [[Chapter 2.2 File Systems]]
+

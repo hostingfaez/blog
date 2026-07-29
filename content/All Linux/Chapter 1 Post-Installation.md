@@ -7,14 +7,7 @@ Software selection boleh try mana dekstop environment yang korang nak but for is
 > Terpulang nak guna distro apa (Linux Mint,Ubuntu) for beginner friendly tapi kalau nak advance sikit boleh guna Debian (more stable) or Arch Linux.
 
 
-1. Masuk root `su -`
-2. Masukkan user dalam group sudo
-
-```bash
-	/usr/sbin/usermod -aG sudo username
-```
-
-3.  Install vim `apt install vim`
+1.  Install vim `apt install vim`
 
 Error: The repository 'cdrom://[Debian GNU/Linux 13.6.0 Trixie - Official amd64 DVD Binary-1 with firmware 20260711-09:43] trixie Release' does not have a Release file.
 ```bash

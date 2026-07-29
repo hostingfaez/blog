@@ -1,35 +1,4 @@
 
-docker-compose.yml (my config)
-
-```
-services:
-  calibre-web:
-    image: lscr.io/linuxserver/calibre-web:latest
-    container_name: calibre-web
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=Asia/Kuala_Lumpur
-    volumes:
-      - ./config:/config
-      - /home/f8un99/buku:/books
-    ports:
-      - "8083:8083"
-    restart: unless-stopped
-```
-
-Run 
-
-```bash
-docker compose up -d
-```
-
-Buka web browser
-
-```bash
-http://192.168.122.11:8083
-```
-
 ![[Pasted image 20260726112350.png]]
 
 Default 
