@@ -3,7 +3,7 @@
 
 ---
 
-[[Chapter 1 Installation & Configuration]]
+[[Chapter 1 Installation & Configuration Ubuntu Server]]
 - [[Chapter 1.1 Router Configuration]]
 - [[Chapter 1.2 Display & Power Management]] ; (optional) **if install ubuntu server using laptop
 

@@ -19,7 +19,7 @@ Example : Windows -> Linux
 - [[Debian Docs]] (GNOME)
 - [[Debian Xenl Docs]] ; Coming Soon !
 - [[Ubuntu Server Docs]]
-- Proxmox ; Coming Soon !
+- [[Proxmox]] ; Coming Soon !
 
 ### Others
 
