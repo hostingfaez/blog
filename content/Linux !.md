@@ -19,7 +19,6 @@ Example : Windows -> Linux
 - [[Debian Docs]] ; Main Driver
 - [[Debian Xenl Docs]] ; Headless Debian
 - [[Ubuntu Server Docs]]
-- [[Proxmox]] ; More To Come !
 
 ### Others
 
