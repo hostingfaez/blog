@@ -1,11 +1,9 @@
-
-[[Chapter 1 Format Hard Disk]] ; (Optional) kalau ada extra HDD/SDD yang tak guna dekat rumah
+[[Chapter Z5 Router Configuration]] ; Buat reservation IP untuk server dalam router.
 
 ---
 
 [[Chapter 1 Installation & Configuration Ubuntu Server]]
-- [[Chapter 1.1 Router Configuration]]
-- [[Chapter 1.2 Display & Power Management]] ; (optional) **if install ubuntu server using laptop
+- [[Chapter 1.1 Display & Power Management]] ; (optional) **if install ubuntu server using laptop
 
 ---
 

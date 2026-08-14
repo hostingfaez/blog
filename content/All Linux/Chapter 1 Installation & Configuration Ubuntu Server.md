@@ -8,7 +8,7 @@ Check Search for third party drivers (just in case) especially if the server is 
 
 ![[Screenshot_server_2026-07-25_23 32 27.png]]
 
-Reason kenapa aku guna DHCP (and you are not if setup real server) sebab aku connect dengan internet via mobile hotspot so ip akan sentiasa bertukar (dynamic IP). [[Chapter 1.1 Router Configuration]]
+Reason kenapa aku guna DHCP (and you are not if setup real server) sebab aku connect dengan internet via mobile hotspot so ip akan sentiasa bertukar (dynamic IP). [[Chapter Z5 Router Configuration]]
 
 Kalau korang setup real server then you should edit the ipv4 address and assign it to make it static ip. 
 

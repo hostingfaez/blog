@@ -4,6 +4,7 @@
 
 Install : https://www.debian.org/distrib/
 
+[[Chapter Z4 File Systems]] ; You should read if you are a beginner in installing Linux.
 [[Chapter 1 Post-Installation]]
 
 ---

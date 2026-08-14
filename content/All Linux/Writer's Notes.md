@@ -13,4 +13,4 @@ Untuk lagi satu laptop gaming aku guna windows 11 tapi aku jarang sangat pakai. 
 
 Dia akan blue screen and akan restart balik computer aku. Ni jadi several times jugakla. Untuk laptop gaming aku tak sure lagi nak migrate ke linux ke tak sebab adobe takde dalam linux.
 
-Ubuntu was my first Linux distro sebab dia beginner friendly and stable and mostly linux user said that ubuntu is 'Windows in Linux' since ada lagi dia punya bloat and untuk laptop aku yang tak berapa nak power dia agak lama untuk boot. Bila aku load Debian dalam VM cepat je debian bukak i am gonna migrate to Debian.
+Ubuntu was my first Linux distro sebab dia beginner friendly and stable and mostly linux user said that ubuntu is 'Windows in Linux' since ada lagi dia punya bloat and untuk laptop aku yang tak berapa nak power dia agak lama untuk boot. Bila aku load Debian dalam VM cepat je debian bukak i already migrated to Debian.
