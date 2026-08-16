@@ -20,7 +20,7 @@ Chapter 3 Installation
 
 - [[Chapter 3.1 CasaOS]] ;
 	- [[Chapter 3.1.1 Cockpit]] (9090); ZFS Management 
-	- Chapter 3.1.2 Tailscale ; VPN
+	- [[Chapter 3.1.2 Jellyfin]] ; Stream and play the movies that have downloaded. 
 	- Chapter 3.1.3 Cloudflared ; tunneling daemon by Cloudflare that safely exposes your web servers into the internet.
 	- Chapter 3.1.4 Navidrome ; Music hosting 
 	- [[Chapter 3.1.5 Calibre Web]] ; Book hosting
@@ -28,6 +28,6 @@ Chapter 3 Installation
 	- [[Chapter 3.1.7 Sonarr]] ; Manages your TV library. 
 	- [[Chapter 3.1.8 Prowlarr]]; Manages torrent sites.
 	- [[Chapter 3.1.9 qBitTorrent]] ; Download files using torrent links. 
-	- [[Chapter 3.1.10 Jellyfin]] ; Stream and play the movies that have downloaded. 
 - [[Chapter 3.2 Samba]] ; File sharing protocol
 - [[Chapter 3.3 Flare Solverr]] ; Bypass indexer that use Cloudflare DDOS Protection
+- [[Chapter 3.1.2 Tailscale]] ; VPN

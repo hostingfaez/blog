@@ -14,7 +14,8 @@ Chapter 2 Apps Installation
 - [[Chapter 2.1 Kitty(Terminal)]] & Configuration
 - [[Chapter 2.2 Apps (Flatpak)]]
 - [[Chapter 2.3 Putty]]
-- [[Chapter 2.4 KVM & Qemu]] ; Kernel Virtual Machine 
+- [[Chapter 2.4 KVM & Qemu]] ; Kernel Virtual Machine
+	- [[Chapter 2.4.1 Access VM Remotely to Server]]
 - [[Chapter 2.5 Arduino]]
 - [[Chapter 2.6 Packet Tracer]]
 - [[Chapter 2.7 CMUS]] ; C* Music Player
