@@ -16,10 +16,11 @@ Example : Windows -> Linux
 ### OS Documentations 
 
 ---
-- [[Debian Docs]] ; Main Driver
+- [[Debian Version]] ; Please read if you are new to Debian since there are several versions that you can download.
+- [[Debian Docs]] ; Debian with GNOME (Daily Driver)
 - [[Debian Seb Docs]] ; Headless Debian (server)
 
-### Others
+### Other
 
 ---
 - [[Chapter Z1 Git & Github]]  
