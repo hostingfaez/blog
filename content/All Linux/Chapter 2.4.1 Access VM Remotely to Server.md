@@ -21,6 +21,6 @@ virt-manager
 
 ![[Pasted image 20260816165315.png]]
 
-4. iap !
+4. Siap !
 
 ![[Pasted image 20260816170401.png]]

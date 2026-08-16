@@ -13,6 +13,7 @@ Chapter 2 Installation & Configuration
 	- [[Chapter 2.1.1 1TB Partitioning]]
 - [[Chapter 2.2 Console Blank]]
 - [[Chapter 2.3 Memory Management]] ; setup zfs mirror
+- [[Chapter 2.4 Cannot Clear]] ; 'xterm-kitty': unknown terminal type
 
 ---
 
