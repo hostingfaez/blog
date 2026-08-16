@@ -1,5 +1,5 @@
 
-1. Sebelum add and commit (SSH)
+### Sebelum add and commit (SSH)
 
 Add (jika folder itu masih baru dan belum pernah disambungkan ke GitHub)
 
@@ -9,7 +9,7 @@ Add (jika folder itu masih baru dan belum pernah disambungkan ke GitHub)
 git remote add origin git@github.com:namauser/namarepo.git
 ```
 
-Set (`remote origin already exists` keluar nak ganti URL lama ke URL baru)
+1. Set (`remote origin already exists` keluar nak ganti URL lama ke URL baru)
 
 ```bash
 git remote set-url origin git@github.com:namauser/namarepo.git
@@ -38,7 +38,7 @@ Run
 to set your account's default identity. 
 ```
 
-2. Error
+### Error
 
 ```bash
 f8un@deb:~/codesa/jaja$ git push origin main
@@ -53,6 +53,7 @@ and the repository exists.
 Ada 2 kebarangkalian dia salah 
 1. Check ssh confg kalau ada typo sebab kalau dah masukkan key ssh dalam Github website and dalam ssh config sepatutnya dapat. 
 2. set url command salah sebab lain untuk kalau ada 1 atau 2 account
+
 ```bash
 # 1 account
 git remote set-url origin git@github.com:namauser/namarepo.git

@@ -23,5 +23,5 @@ Kalau ada anime tv films boleh masukkan indexer anime.
 
 ![[Screenshot From 2026-07-28 23-26-57.png]]
 
-> Note : Kalau ada error nak tambah some indexers kemungkinan besar kena bypass Cloudflare DDOS Protection. [[Chapter 2.5.5 Flare Solverr]]
+> Note : Kalau ada error nak tambah some indexers kemungkinan besar kena bypass Cloudflare DDOS Protection. [[Chapter 3.3 Flare Solverr]]
 

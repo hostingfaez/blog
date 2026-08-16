@@ -1,10 +1,10 @@
-Buka Vim 
+1. Buka Vim 
 
 ```bash
 vim
 ```
 
-Install (tekan : )
+2. Install (tekan : )
 
 - **Python:** `:CocInstall coc-pyright`
 - **C / C++:** `:CocInstall coc-clangd` & `sudo apt install clangd -y`

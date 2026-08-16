@@ -1,15 +1,17 @@
+### Install
+
 ```bash
 sudo apt update
 sudo apt install fastfetch -y
 ```
 
-Generate config
+1. Generate config
 
 ```bash
 fastfetch --gen-config
 ```
 
-Edit 
+2. Edit 
 
 ```bash
 vim ~/.config/fastfetch/config.jsonc

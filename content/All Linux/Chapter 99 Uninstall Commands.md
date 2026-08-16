@@ -1,5 +1,5 @@
 
-APT
+1. APT
 
 ```bash
 sudo apt remove app-name
@@ -7,26 +7,26 @@ To remove config files too (clean uninstall): sudo apt purge app-name
 Then clean up unused dependencies: sudo apt autoremove
 ```
 
-Flatpak
+2. Flatpak
 
 ```bash
 flatpak list
 flatpak uninstall app-name
 ```
 
-.deb
+3. .deb
 
 ```bash
 dpkg -l | grep app-name
 sudo apt remove app-name
 ```
 
-./install.sh packages 
+4. ./install.sh packages 
 
-Apps installed via:
-
-- `apt`, `snap`, `flatpak` → **tracked**
-- `./install.sh` → **NOT tracked**
+	Apps installed via:
+	
+	- `apt`, `snap`, `flatpak` → **tracked**
+	- `./install.sh` → **NOT tracked**
 
 ```bash
 ls
@@ -42,7 +42,7 @@ or sudo rm -r /usr/bin/app
 & Remove Desktop Files
 ```
 
-Desktop Files
+5. Desktop Files
 
 ```bash
 ls ~/.local/share/applications

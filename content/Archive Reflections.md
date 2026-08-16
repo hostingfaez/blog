@@ -4,7 +4,7 @@
 
 ### Project X
 ---
-**More kepada Fitness**
+Fitness
 - Parent Item: [[Project X]]
 - [[Georgetown Half Marathon ( 5 KM )]] & [[Mini Food Hunt in Penang]]
 - [[Perak Sprint Triathlon]]
@@ -42,6 +42,13 @@ Parent Item: [[Dubai Dumps]]
 - [[Sharjah Desert]]
 - [[Sheikh Zayed Grand Mosque]]
 - [[What I Eat In Dubai]]
+
+### Diploma Internship
+---
+Parent Item: [[Diploma Internship !]] 
+- [[Main Project Cont]]
+- [[Final Report]]
+- [[Side Quest]]
 
 ### Others
 ---

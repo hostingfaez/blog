@@ -5,20 +5,20 @@
 2. Clone repo (kalau takde lagi folder dalam workstation)
 3. `git pull origin main` (kalau ada lebih dari sorang yang conribute dalam project ni and ada recent changes yang berlaku untuk sync dengan code repo latest)
 
-Error
+### Error
 
 ```bash
 f8un@deb:~/codesa/jaja$ git remote add origin git@github.com:faezbun/mydotfiles.git
 error: remote origin already exists.
 ```
 
-set kita punya folder as username mana and repo mana yang kita akan push kan nanti
+1. set kita punya folder as username mana and repo mana yang kita akan push kan nanti
 
 ```bash
 git remote set-url origin git@github.com:hostingfaez/mydotfiles.git
 ```
 
-Then push macam biasa and then create pull request dalam github website
+2. Then push macam biasa and then create pull request dalam github website
 
 ![[Pasted image 20260716022634.png]]
 

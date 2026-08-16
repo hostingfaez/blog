@@ -1,20 +1,19 @@
 Website : https://www.netacad.com/resources/lab-downloads?courseLang=en-US 
 
-Install File : [[Chapter 2.99 Deb Files]]
+1. Install File : [[Chapter 2.99 Deb Files]]
 
-Masa agreement tekan arrow kanan and then quit
-
-Dia akn tanya : Please review Cisco Packet Tracer End User Licese Agreement (EULA)
-
-Enter 1, 2 or 3 at the prompt below
+2. Masa agreement tekan arrow kanan and then quit
+	Dia akn tanya : Please review Cisco Packet Tracer End User Licese Agreement (EULA)
+	Enter 1, 2 or 3 at the prompt below
 1) Show EULA text again
 2) Accept EULA
 3) Decline EULA
-#? 
+
 Tekan 2
+
 Accept EULA (selected)
 
-Error
+### Error
 
 ```bash
 f8un@deb:~/Downloads$ packettracer

@@ -1,13 +1,11 @@
 Wiki : [https://sw.kovidgoyal.net/kitty/binary/](https://sw.kovidgoyal.net/kitty/binary/)
 
-Install 
+### Install 
 ```bash
 curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
 ```
 
 ### Installation
-
-
 
 ```bash
 # Buat Folder Shortcut

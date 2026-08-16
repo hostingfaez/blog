@@ -35,15 +35,17 @@ deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 
 4. update and upgrade `apt update && apt upgrade -y`
 5. Install curl `apt install curl`
-6. (username is not in sudoers file) masuk dalam username: `su - username` & restart laptop kalau error lagi
-7. Maps caps lock key as Esc key
+6. Maps caps lock key as Esc key
 
 ```bash
 	gsettings set org.gnome.desktop.input-sources xkb-options "['caps:escape']"
 ```
 
-8. Jadikan vim default text editor
+ 7. Jadikan vim default text editor
 
 ```bash
 git config --global core.editor "vim"
 ```
+### Errors
+
+1. username is not in sudoers file [[Chapter Z3 User (sudo)]].

@@ -1,46 +1,51 @@
-Install 
+### Install 
 
 ```bash
 sudo apt install qemu-system libvirt-daemon-system libvirt-clients bridge-utils virt-manager -y
 ```
 
-Tambah access
+1. Tambah access
 
 ```bash
 sudo usermod -aG libvirt f8un
 sudo usermod -aG kvm f8un
 ```
 
-Aktifkan service (run automatic bila Debian on)
+2. Aktifkan service (run automatic bila Debian on)
 
 ```bash
 sudo systemctl enable --now libvirtd
 ```
 
-Auto start network
+3. Auto start network
 
 ```bash
 sudo virsh net-start default
 sudo virsh net-autostart default
 ```
-List all running vms
+
+4. List all running vms
 
 ```bash
 virsh list --all
 ```
 
-Add storage 
+### Extras
+
+1. Add storage 
 
 ```bash
 qemu-img create -f qcow2 ~/vms/freebsd_data.qcow2 10G
 ```
 
-Resize storage 
+2. Resize storage
+
 ```
 qemu-img resize ~/vms/freebsd.qcow2 +30G
 ```
 
-Autostart VM (specific)
+3. Autostart VM (specific)
+
 ```
 virsh autostart namaserver
 ```

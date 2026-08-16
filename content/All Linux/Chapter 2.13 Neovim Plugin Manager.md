@@ -1,19 +1,21 @@
 
-Pastikan dah install node.js. Check version.
+Pastikan dah install node.js. 
+
+1. Check version.
 
 ```
 node -v
 ```
 
-Kalau belum 
+Kalau belum install
 
 ```bash
 sudo apt install nodejs npm
 ```
 
-Vim Plug : Plugin Manager untuk neovim 
+### Vim Plug : Plugin Manager
 
-Install Vim Plug
+1. Install Vim Plug
 
 ```
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
