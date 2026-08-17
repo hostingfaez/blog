@@ -1,13 +1,7 @@
-> ISO installation pastikan amik yang full and bukannya yang guna internet connection untuk **tidak pening kepala** pada kemudian hari
 
 ![[Screenshot_debian_2026-07-13_17 51 22.png]]
 
-Software selection boleh try mana dekstop environment yang korang nak but for is GNOME Desktop Environment.
-
-> Terpulang nak guna distro apa (Linux Mint,Ubuntu) for beginner friendly tapi kalau nak advance sikit boleh guna Debian (more stable) or Arch Linux.
-
-
-1.  Install vim `apt install vim`
+1.  Install vim `apt install vim ;` ; Text Editor
 
 Error: The repository 'cdrom://[Debian GNU/Linux 13.6.0 Trixie - Official amd64 DVD Binary-1 with firmware 20260711-09:43] trixie Release' does not have a Release file.
 ```bash

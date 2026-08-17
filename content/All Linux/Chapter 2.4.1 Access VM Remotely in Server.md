@@ -1,5 +1,5 @@
 
-1. SSH to server using tailscale. Kalau belum setup make sure dah setup dekat server [[Chapter 3.1.2 Tailscale]]. 
+1. SSH to server using tailscale. Kalau belum setup make sure dah setup dekat server [[Chapter 3.4 Tailscale]]. 
 
 ```bash
 ssh f8un99@iptailscale

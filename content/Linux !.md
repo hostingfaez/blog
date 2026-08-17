@@ -16,7 +16,6 @@ Example : Windows -> Linux
 ### OS Documentations 
 
 ---
-- [[Debian Version]] ; Please read if you are new to Debian since there are several versions that you can download.
 - [[Debian Docs]] ; Debian with GNOME (Daily Driver)
 - [[Debian Seb Docs]] ; Headless Debian (server)
 
@@ -31,6 +30,8 @@ Example : Windows -> Linux
 - [[Chapter Z4 File Systems]] ; You should know what file systems to use before installing.
 - [[Chapter Z5 Router Configuration]] ; Mandatory for DHCP IP reservation.
 - [[Chapter Z6 Format Hard Disk]] ; (Optional) kalau ada extra HDD/SDD yang tak guna dekat rumah
+- [[Chapter Z7 Debian Version]] ; Several versions of Debian.
+- [[Chapter Z8 Desktop Environment]] ; You also can use window manager.
 
 
 ![[capitalist.jpg]]

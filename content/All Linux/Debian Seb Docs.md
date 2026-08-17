@@ -2,7 +2,9 @@ Seb is the name for this computer for this documentation. The ISO is the standar
 
 Download : https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 
-> Note: This is headless version and that means there are no desktop environment inside the installer.
+[[Chapter Z7 Debian Version]] ; Please read if you are new to Debian since there are several versions that you can download.
+
+> Note: This is headless version and that means there are no desktop environment inside the installer. if you are a beginner please go to [[Debian Docs]] since it has a desktop environment (GUI) .
 
 [[Chapter 1 Why Debian Headless?]] 
 
@@ -31,4 +33,4 @@ Chapter 3 Installation
 	- [[Chapter 3.1.9 qBitTorrent]] ; Download files using torrent links. 
 - [[Chapter 3.2 Samba]] ; File sharing protocol
 - [[Chapter 3.3 Flare Solverr]] ; Bypass indexer that use Cloudflare DDOS Protection
-- [[Chapter 3.1.2 Tailscale]] ; VPN
+- [[Chapter 3.4 Tailscale]] ; VPN

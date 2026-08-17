@@ -4,7 +4,15 @@
 
 Install : https://www.debian.org/distrib/
 
-[[Chapter Z4 File Systems]] ; You should read if you are a beginner in installing Linux.
+> Note : ISO installation pastikan ambil yang **complete installation image and bukannya yang guna internet connection** untuk tidak pening kepala pada kemudian hari. Desktop environment korang boleh pilih tapi dalam blog is GNOME Desktop Environment.
+
+---
+Beginner Guides
+- [[Chapter Z4 File Systems]] ; Different file systems to use in your drive.
+- [[Chapter Z7 Debian Version]] ; Several versions that you can download.
+- [[Chapter Z8 Desktop Environment]]; If you are not sure what desktop environment that you want to use.
+
+---
 
 [[Chapter 1 Post-Installation]]
 
@@ -28,7 +36,6 @@ Chapter 2 Apps Installation
 	- [[Chapter 2.13.1 coc.nvim]] ; Autocompletion for coding 
 	- Chapter 2.13.2 VimTex  For latex
 - [[Chapter 2.14 Live Viewer Website]] ; for live preview while editing website
-- Chapter 2.15 Git to Server ; Coming Soon !
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]
 
