@@ -2,9 +2,10 @@ Seb is the name for this computer for this documentation. The ISO is the standar
 
 Download : https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 
-[[Chapter Z7 Debian Version]] ; Please read if you are new to Debian since there are several versions that you can download.
+[[Chapter Z7 Debian Version]] ; Several versions that you can download.
 
 > Note: This is headless version and that means there are no desktop environment inside the installer. if you are a beginner please go to [[Debian Docs]] since it has a desktop environment (GUI) .
+
 
 [[Chapter 1 Why Debian Headless?]] 
 
