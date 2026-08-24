@@ -36,3 +36,4 @@ Chapter 3 Installation
 - [[Chapter 3.4 Tailscale]] ; VPN
 - [[Chapter 3.5 qBitTorrent]] ; Download files using torrent links.
 - [[Chapter 3.6 UPS]] 
+- [[Chapter 3.7 Fail2Ban]]
