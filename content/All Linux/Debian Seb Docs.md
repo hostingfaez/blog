@@ -31,7 +31,8 @@ Chapter 3 Installation
 	- [[Chapter 3.1.6 Radarr]] ; Manages your movie library. 
 	- [[Chapter 3.1.7 Sonarr]] ; Manages your TV library. 
 	- [[Chapter 3.1.8 Prowlarr]]; Manages torrent sites.
-	- [[Chapter 3.1.9 qBitTorrent]] ; Download files using torrent links. 
 - [[Chapter 3.2 Samba]] ; File sharing protocol
 - [[Chapter 3.3 Flare Solverr]] ; Bypass indexer that use Cloudflare DDOS Protection
 - [[Chapter 3.4 Tailscale]] ; VPN
+- [[Chapter 3.5 qBitTorrent]] ; Download files using torrent links.
+- [[Chapter 3.6 UPS]] 

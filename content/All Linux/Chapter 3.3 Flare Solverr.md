@@ -15,3 +15,7 @@ Follow the standard steps to add the indexer noting the following changes.
 6. Check (Enable) the `Enabled` box
 7. Press `Save`
 8. Press `Save` again to trigger a force save
+
+Masukkan dalam prowlarr
+
+![[Pasted image 20260823225033.png]]
