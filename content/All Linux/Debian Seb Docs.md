@@ -20,7 +20,7 @@ Chapter 2 Installation & Configuration
 
 ---
 
-Chapter 3 Installation 
+Chapter 3 Installation & Configurations
 
 - [[Chapter 3.1 CasaOS]] ;
 	- [[Chapter 3.1.1 Cockpit]] (9090); ZFS Management 
@@ -36,4 +36,8 @@ Chapter 3 Installation
 - [[Chapter 3.4 Tailscale]] ; VPN
 - [[Chapter 3.5 qBitTorrent]] ; Download files using torrent links.
 - [[Chapter 3.6 UPS]] 
-- [[Chapter 3.7 Fail2Ban]]
+- [[Chapter 3.7 Fail2Ban]] ; An intrusion prevention software framework.
+- [[Chapter 3.8 Ansible]] ; An agentless automation tool that you install on a single host (referred to as the control node).
+	- [[Chapter 3.8.1 Automate Infrastructure Management]] ; Don't have to configure managed and control node.
+	- [[Chapter 3.8.2 Automate Infrastructure Management From Control Node]]
+

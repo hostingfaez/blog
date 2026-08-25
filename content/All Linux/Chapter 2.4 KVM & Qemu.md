@@ -50,3 +50,8 @@ qemu-img resize ~/vms/freebsd.qcow2 +30G
 virsh autostart namaserver
 ```
 
+4. Kalau nak download ISO tapi dalam terminal 
+
+```bash
+sudo curl -L -o namaoutput.iso https://...
+```

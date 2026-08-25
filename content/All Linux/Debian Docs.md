@@ -18,7 +18,7 @@ Beginner Guides
 
 ---
 
-Chapter 2 Apps Installation
+Chapter 2 Installation
 - [[Chapter 2.1 Kitty(Terminal)]] & Configuration
 - [[Chapter 2.2 Apps (Flatpak)]]
 - [[Chapter 2.3 Putty]]
