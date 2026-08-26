@@ -20,4 +20,5 @@ sudo fail2ban-client status sshd
 sudo fail2ban-client set sshd unbanip <IP_ADDRESS>
 ```
 
-Fail2Ban & SSH Telegram Sentinel: https://github.com/FaezBun/sebfail2ban
+
+

@@ -6,13 +6,13 @@ Add (jika folder itu masih baru dan belum pernah disambungkan ke GitHub)
 ![[Pasted image 20260716121017.png]]
 
 ```bash
-git remote add origin git@github.com:namauser/namarepo.git
+git remote add origin git@github.com-username1:namauser/namarepo.git
 ```
 
 1. Set (`remote origin already exists` keluar nak ganti URL lama ke URL baru)
 
 ```bash
-git remote set-url origin git@github.com:namauser/namarepo.git
+git remote set-url origin git@github.com-username1:namauser/namarepo.git
 ```
 
 > Kalau ada 2 account (ikut config ssh) [[Chapter 1.2 Create & Config SSH]]

@@ -4,7 +4,7 @@ Download : https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 
 [[Chapter Z7 Debian Version]] ; Several versions that you can download.
 
-> Note: This is headless version and that means there are no desktop environment inside the installer. if you are a beginner please go to [[Debian Docs]] since it has a desktop environment (GUI) .
+> Note: This is headless version and that means there are no desktop environment inside the installer. if you are a beginner please go to [[Debian Docs]] since it has a desktop environment (GUI) . You can download using the network installer iso / live iso.
 
 
 [[Chapter 1 Why Debian Headless?]] 
@@ -17,6 +17,7 @@ Chapter 2 Installation & Configuration
 - [[Chapter 2.2 Console Blank]]
 - [[Chapter 2.3 Memory Management]] ; setup zfs mirror
 - [[Chapter 2.4 Cannot Clear]] ; 'xterm-kitty': unknown terminal type
+- [[Chapter 2.5 Remove Unnecessary Packages]] ; Kalau install guna live ISO.
 
 ---
 
@@ -37,7 +38,16 @@ Chapter 3 Installation & Configurations
 - [[Chapter 3.5 qBitTorrent]] ; Download files using torrent links.
 - [[Chapter 3.6 UPS]] 
 - [[Chapter 3.7 Fail2Ban]] ; An intrusion prevention software framework.
-- [[Chapter 3.8 Ansible]] ; An agentless automation tool that you install on a single host (referred to as the control node).
-	- [[Chapter 3.8.1 Automate Infrastructure Management]] ; Don't have to configure managed and control node.
-	- [[Chapter 3.8.2 Automate Infrastructure Management From Control Node]]
+
+---
+
+Chapter 4 Automation
+
+- [[Chapter 4.1 Ansible]] ; An agentless automation tool that you install on a single host (referred to as the control node).
+	- [[Chapter 4.1.1 Automate Infrastructure Management]] ; Don't have to configure managed and control node.
+	- [[Chapter 4.1.2 Automate Infrastructure Management From Control Node]]
+- Chapter 4.2 Cyberpower UPS Telegram Monitor ; https://github.com/FaezBun/sebups
+- Chapter 4.3 Fail2Ban & SSH Telegram Sentinel ; https://github.com/FaezBun/sebfail2ban
+- [[Chapter 4.4 Telegram Bot Additional Features]]
+
 

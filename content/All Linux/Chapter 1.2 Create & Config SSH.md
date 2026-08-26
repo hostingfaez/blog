@@ -53,7 +53,7 @@ Wajib buat
 chmod 600 ~/.ssh/config
 
 # Try connection
-ssh -T git@github.com
+ssh -T git@github.com-username1
 ```
 
 

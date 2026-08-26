@@ -2,7 +2,6 @@ Link download software (CLI) : https://www.cyberpowersystems.com/product/softwar
 
 [[Chapter 2.99 Deb Files]]
 
-Cyberpower UPS Telegram Monitor : https://github.com/FaezBun/sebups
 
 1. Monitor UPS Status
 
