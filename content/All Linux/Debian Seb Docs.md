@@ -27,7 +27,7 @@ Chapter 3 Installation & Configurations
 	- [[Chapter 3.1.1 Cockpit]] (9090); ZFS Management 
 	- [[Chapter 3.1.2 Jellyfin]] ; Stream and play the movies that have downloaded. 
 	- Chapter 3.1.3 Cloudflared ; tunneling daemon by Cloudflare that safely exposes your web servers into the internet.
-	- Chapter 3.1.4 Navidrome ; Music hosting 
+	- [[Chapter 3.1.4 Navidrome]] ; Music hosting 
 	- [[Chapter 3.1.5 Calibre Web]] ; Book hosting
 	- [[Chapter 3.1.6 Radarr]] ; Manages your movie library. 
 	- [[Chapter 3.1.7 Sonarr]] ; Manages your TV library. 
@@ -46,8 +46,9 @@ Chapter 4 Automation
 - [[Chapter 4.1 Ansible]] ; An agentless automation tool that you install on a single host (referred to as the control node).
 	- [[Chapter 4.1.1 Automate Infrastructure Management]] ; Don't have to configure managed and control node.
 	- [[Chapter 4.1.2 Automate Infrastructure Management From Control Node]]
-- Chapter 4.2 Cyberpower UPS Telegram Monitor ; https://github.com/FaezBun/sebups
-- Chapter 4.3 Fail2Ban & SSH Telegram Sentinel ; https://github.com/FaezBun/sebfail2ban
+- Chapter 4.2 Seb ; https://github.com/FaezBun/seb/
+	- Cyberpower UPS Telegram Monitor 
+	- Fail2Ban & SSH Telegram Sentinel 
 - [[Chapter 4.4 Telegram Bot Additional Features]]
 
 

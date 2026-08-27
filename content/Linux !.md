@@ -18,6 +18,7 @@ Example : Windows -> Linux
 ---
 - [[Debian Docs]] ; Debian with GNOME (Daily Driver)
 - [[Debian Seb Docs]] ; Headless Debian (server)
+- [[Kali Linux]] 
 
 ### Other
 
