@@ -19,7 +19,7 @@ If you want to access WEB for any of these tools please make sure that you allow
 sudo ufw allow portno/tcp
 ```
 
-[[Chapter 1.1 SpiderFoot]] ; An automated OSINT scanner.
-[[Chapter 1.2 Recon-ng]] ; An OSINT framework that is similar to the Metasploit exploitation framework or the Social-Engineering Tooklit (SET). It consists of a series of modules that can be run in their own workspaces.
+- [[Chapter 1.1 SpiderFoot]] ; An automated OSINT scanner.
+- [[Chapter 1.2 Recon-ng]] ; An OSINT framework that is similar to the Metasploit exploitation framework or the Social-Engineering Tooklit (SET). It consists of a series of modules that can be run in their own workspaces.
 
 
