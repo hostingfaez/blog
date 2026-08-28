@@ -34,7 +34,7 @@ Modules:
 	
 ```
 recon/contacts-credentials/hibp_breach
-install recon/contacts-credentials/hibp_paste
+recon/contacts-credentials/hibp_paste
 ```
 
 ```bash

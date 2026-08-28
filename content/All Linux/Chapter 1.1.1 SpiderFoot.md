@@ -30,3 +30,16 @@ A lot of info yang kita boleh dapat dari scan tadi.
 Sebagai contoh kita tengok Name Server
 
 ![[Pasted image 20260828004346.png]]
+
+
+A few interesting modules
+1. Ahmia
+2. AccountFinder
+3. Archive.org
+4. Bing
+5. Dehashed
+6. Leak-Lookup
+7. CommonCrawl
+8. EmailCrawlr
+9. DuckDuckGo
+

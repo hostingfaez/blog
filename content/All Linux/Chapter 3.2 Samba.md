@@ -67,3 +67,35 @@ Drag and drop files from your computer to the server.
 
 
 ![[Pasted image 20260726091701.png]]
+
+### Tutup access without username and password 
+
+1. Config file
+
+```bash
+sudo vim /etc/samba/smb.conf
+```
+
+```bash
+[global]
+    map to guest = Never
+    null passwords = no
+    guest ok = no
+```
+
+```bash
+sudo vim /etc/samba/smb.casa.conf
+```
+
+Tambah untuk setiap folder yang ada eg. Music Coding
+
+```bash
+guest ok = no
+public = no
+```
+
+2. Restart Samba Service
+
+```bash
+sudo systemctl restart smbd
+```
