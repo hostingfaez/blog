@@ -3,8 +3,10 @@
 
 IP Address: 192.168.122.128
 
-Websites
+Websites & Others
 1. https://whatsmyname.app/ ; community-maintained dataset that lets you find out if a username exists across hundreds of websites.
+2. https://linuxvox.com/blog/ddos-kali-linux/ ; DDOS attacks with Kali Linux
+3. [[Chapter Z9 Deal With Vulnerability]]
 
 If you want to access web for any of these tools please make sure that you allow your firewall not to block other host entering that port.
 
@@ -33,3 +35,12 @@ Chapter 1.1 Performing Passive Reconnaissance
 Chapter 1.2 Performing Active Reconnaissance
 - [[Chapter 1.2.1 Nmap]]
 - [[Chapter 1.2.2 Enum4Linux]] ; Enumerate Samba shares, including user accounts, shares, and other configurations.
+- Chapter 1.2.3 GVM Scanner ; GVM is part of the Open Source Vulnerability Management suite of products produced by Greenbone Networks GmbH. The GVM scanner is one of the most widely used open-source vulnerability scanners.
+
+Chapter 1.3 Social Engineering Tools 
+- [[Chapter 1.3.1 Social-Engineer Toolkit (SET)]] ; This tool can be used to launch numerous social engineering attacks and can be integrated with third-party tools and frameworks such as Metasploit. SET is installed by default in Kali Linux and Parrot Security.
+- [[Chapter 1.3.2 Browser Exploitation Framework (BeEF)]] ; Tool that can be used to manipulate users by leveraging XSS vulnerabilities
+- Chapter 1.3.3 Call Spoofing Tools
+	- **SpoofApp**: This is an Apple iOS and Android app that can be used to easily spoof a phone number.
+	- **SpoofCard**: This is an Apple iOS and Android app that can spoof a number and change your voice, record calls, generate different background noises, and send calls straight to voicemail.
+	- **Asterisk**: Asterisk is a legitimate voice over IP (VoIP) management tool that can also be used to impersonate caller ID.

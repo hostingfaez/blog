@@ -33,6 +33,7 @@ Example : Windows -> Linux
 - [[Chapter Z6 Format Hard Disk]] ; (Optional) kalau ada extra HDD/SDD yang tak guna dekat rumah
 - [[Chapter Z7 Debian Version]] ; Several versions of Debian.
 - [[Chapter Z8 Desktop Environment]] ; You also can use window manager.
+- [[Chapter Z9 Deal With Vulnerability]]
 
 
 ![[capitalist.jpg]]

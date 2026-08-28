@@ -55,3 +55,15 @@ The Nmap scanner provides six timing templates that can be specified with the **
 - **-T3 (Normal)** : Default, a dynamic timing model based on target responsiveness
 - **-T4 (Aggressive)** : Assumes a fast and reliable network and may overwhelm targets
 - **-T5 (Insane)** : Very aggressive; will likely overwhelm targets or miss open ports
+
+### Scan for vulnerabilities
+
+```bash
+**nmap -sV --script vulners [--script-args mincvss=<arg_val>] <target>**
+```
+
+Contoh
+
+```bash
+nmap -sV --script vulners --script-args mincvss=4 10.6.6.26
+```
