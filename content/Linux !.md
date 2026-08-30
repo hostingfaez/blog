@@ -34,6 +34,6 @@ Example : Windows -> Linux
 - [[Chapter Z7 Debian Version]] ; Several versions of Debian.
 - [[Chapter Z8 Desktop Environment]] ; You also can use window manager.
 - [[Chapter Z9 Deal With Vulnerability]]
-
+- [[Chapter Z10 Layer 2 Security Best Practices for Securing Infrastructure]]
 
 ![[capitalist.jpg]]

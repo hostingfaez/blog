@@ -56,6 +56,11 @@ The Nmap scanner provides six timing templates that can be specified with the **
 - **-T4 (Aggressive)** : Assumes a fast and reliable network and may overwhelm targets
 - **-T5 (Insane)** : Very aggressive; will likely overwhelm targets or miss open ports
 
+### Scan Top 100 Ports Fast
+
+```bash
+nmap -T4 --top-ports 100 192.168.0.100
+```
 ### Scan for vulnerabilities
 
 ```bash

@@ -1,0 +1,3 @@
+```bash
+gunzip namafail.gz
+```
