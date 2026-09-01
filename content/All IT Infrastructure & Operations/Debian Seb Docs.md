@@ -47,8 +47,6 @@ Chapter 4 Automation
 	- [[Chapter 4.1.1 Automate Infrastructure Management]] ; Don't have to configure managed and control node.
 	- [[Chapter 4.1.2 Automate Infrastructure Management From Control Node]]
 - Chapter 4.2 Seb ; https://github.com/FaezBun/seb/
-	- Cyberpower UPS Telegram Monitor 
-	- Fail2Ban & SSH Telegram Sentinel 
-- [[Chapter 4.4 Telegram Bot Additional Features]]
+- [[Chapter 4.3 Telegram Bot Additional Features]]
 
 

@@ -2,23 +2,16 @@
 {}
 ---
 
-### Change to Another OS 
-
----
-
-**Change from one operating system to another.**
-Example : Windows -> Linux
-> MANDATORY kalau nak tukar Operating System
-
-- [[Linux]]
-- [[Windows]]
-
 ### OS Documentations 
 
 ---
+
+> Note : If you just format your computer or you want to install from one operating system to another it is mandatory to do this. [[Chapter Z12 Installing Linux]] or [[Chapter Z13 Installing Windows]].
+
 - [[Debian Docs]] ; Debian with GNOME (Daily Driver)
 - [[Debian Seb Docs]] ; Headless Debian (server)
 - [[Kali Linux]] 
+
 
 ### Other
 
@@ -35,5 +28,8 @@ Example : Windows -> Linux
 - [[Chapter Z8 Desktop Environment]] ; You also can use window manager.
 - [[Chapter Z9 Deal With Vulnerability]]
 - [[Chapter Z10 Layer 2 Security Best Practices for Securing Infrastructure]]
+- [[Chapter Z11 T490s Modification]]
+- [[Chapter Z12 Installing Linux]]
+- [[Chapter Z13 Installing Windows]]
 
 ![[capitalist.jpg]]

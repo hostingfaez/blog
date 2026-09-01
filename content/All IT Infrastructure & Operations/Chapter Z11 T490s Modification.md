@@ -42,4 +42,4 @@ Guess what. Faez kau ni yang kata malas nak buat end up buat juga sbb malas nak 
 
 WD Green 1 TB tu HAHAHA . Nasib baik dia nampak SSD tu. 
 
-Install Windows macam biasa.
+Install Windows/Linux macam biasa.

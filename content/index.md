@@ -5,7 +5,7 @@
 A minimal blog and personal knowledge base powered by **Quartz**. This project focuses on simplicity and speed, transforming my daily reflections into a searchable, web-friendly format.
 ### System Architecture
 ---
-![[gambawebsite 1.jpg]]
+![[Floor Plan realll.jpg]]
 
 ### Writer's Notes
 ---
@@ -19,7 +19,7 @@ A minimal blog and personal knowledge base powered by **Quartz**. This project f
 ---
 - Main Website : www.faezyahizan.xyz 
 - [[Archive Reflections]]
-- [[Linux !]]
+- [[IT Infrastructure & Operations]]
 - [[Update]]
 
 

@@ -6,6 +6,12 @@ Notes : Log update include changes to the framework or structure for **ALL** of 
 
 Update Version : MAJOR.MINOR.PATCH
 
+### Update 1.4.1
+31/08/2026 21:39
+- Commit :
+1. Change the date and time format
+2. Change the system architecture
+3. Change from Linux -> IT Infrastructure & Operations
 ### Update 1.3.4
 2026-07-14 12:33
 - Commit :

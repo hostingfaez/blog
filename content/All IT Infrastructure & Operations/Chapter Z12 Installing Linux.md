@@ -1,4 +1,7 @@
 
+> Note : If you want to install Linux from Windows just download Balena Etcher and install OS that you want in iso format eg. Ubuntu,Debian,Kali and flash it into your external USB hard drive.
+
+
 ### Install dependencies
 
 ```bash
