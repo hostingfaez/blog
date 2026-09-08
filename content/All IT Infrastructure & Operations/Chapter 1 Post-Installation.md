@@ -40,6 +40,26 @@ deb-src http://deb.debian.org/debian/ trixie-updates main non-free-firmware
 ```bash
 git config --global core.editor "vim"
 ```
+
+8. Cepatkan boot process 
+
+```bash
+sudo vim /etc/default/grub
+```
+
+```bash
+GRUB_DEFAULT=0
+GRUB_TIMEOUT=0
+GRUB_TIMEOUT_STYLE=hidden
+GRUB_DISTRIBUTOR=`( . /etc/os-release && echo ${NAME} )`
+GRUB_CMDLINE_LINUX_DEFAULT="quiet"
+GRUB_CMDLINE_LINUX=""
+```
+
+```bash
+sudo update-grub
+```
+
 ### Errors
 
 1. username is not in sudoers file [[Chapter Z3 User (sudo)]].

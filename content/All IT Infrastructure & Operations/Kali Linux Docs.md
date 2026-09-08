@@ -9,7 +9,7 @@ Websites & Others
 1. https://whatsmyname.app/ ; community-maintained dataset that lets you find out if a username exists across hundreds of websites.
 2. https://linuxvox.com/blog/ddos-kali-linux/ ; DDOS attacks with Kali Linux
 3. http://scanme.nmap.org/ ; Website to test and make sure that their Nmap installation (or Internet connection) is working properly.
-4. [[Chapter Z9 Deal With Vulnerability]]
+4. [[Chapter Z10 Deal With Vulnerability]]
 
 If you want to access web for any of these tools please make sure that you allow your firewall not to block other host entering that port.
 

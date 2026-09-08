@@ -30,6 +30,10 @@ sudo virsh net-autostart default
 virsh list --all
 ```
 
+> Note : If you want to use Windows as a vm, please make sure you download the Windows iso file and virtio file to download your driver during setup according your computer architecture. Tutorial link : https://www.youtube.com/watch?v=q8ZsO-h14Po&t=649s
+
+![[Screenshot_win11_2026-09-02_14 32 15.png]]
+
 ### Extras
 
 1. Add storage 

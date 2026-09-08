@@ -1,4 +1,4 @@
-Link ISO : https://ubuntu.com/download/server & kalau nak masukkan dalam USB boleh tengok [[Chapter Z12 Installing Linux]]
+Link ISO : https://ubuntu.com/download/server & kalau nak masukkan dalam USB boleh tengok [[Chapter Z11 Installing in Linux]]
 
 > Note: I install Ubuntu Server in virtual machine and the setup may differ. 
 
