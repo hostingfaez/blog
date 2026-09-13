@@ -17,7 +17,9 @@ Kalau ada tak perlu buat boleh teruskan dengan lock root account. Kalau takde ke
 2. Masukkan user dalam group sudo
 
 ```bash
-/usr/sbin/usermod -aG sudo username
+su -
+apt update && apt install -y sudo
+/usr/sbin/usermod- aG sudo username
 ```
 
 Lock root account (for security reasons)

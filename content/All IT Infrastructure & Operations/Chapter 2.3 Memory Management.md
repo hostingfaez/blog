@@ -126,3 +126,81 @@ config:
             sda     ONLINE       0     0     0
             sdc     ONLINE       0     0     0
 ```
+
+### Periodic Snapshot
+
+Automate pruning zfs snapshot so that the disk won't full quickly. This is the step after you have configured your ZFS pool.
+
+```bash
+[SERV] f8un99@seb:~ Ψ zfs list -t snapshot
+no datasets available
+```
+
+This is normal sebab kita tak configure dia auto snapshot kita punya pool. Test manual dulu untuk tengok boleh ke tidak.
+
+```
+[SERV] f8un99@seb:~ Ψ sudo zfs snapshot poolname@test1
+```
+
+```bash
+[SERV] f8un99@seb:~ Ψ zfs list -t snapshot
+NAME               USED  AVAIL  REFER  MOUNTPOINT
+kunfayakun@test1     0B      -  7.20G  -
+```
+
+1. Install package 
+
+```bash
+sudo apt update
+sudo apt install zfs-auto-snapshot
+```
+
+2. Automation script 
+
+```bash
+sudo zfs-auto-snapshot --verbose --label frequent poolname
+```
+
+3. List all of the auto snapshot.
+
+```bash
+ls -l /etc/cron.*/*zfs-auto-snapshot*
+```
+
+4. Configure cron for automation. Lets say you want to automate your snapshot weekly.
+
+```bash
+ls -l /etc/cron.*/*zfs-auto-snapshot*
+```
+
+```bash
+[SERV] f8un99@seb:~ Ψ ls -l /etc/cron.*/*zfs-auto-snapshot*
+-rwxr-xr-x 1 root root 173 Oct 11  2018 /etc/cron.daily/zfs-auto-snapshot
+-rw-r--r-- 1 root root 184 Oct 11  2018 /etc/cron.d/zfs-auto-snapshot
+-rwxr-xr-x 1 root root 174 Oct 11  2018 /etc/cron.hourly/zfs-auto-snapshot
+-rwxr-xr-x 1 root root 175 Oct 11  2018 /etc/cron.monthly/zfs-auto-snapshot
+-rwxr-xr-x 1 root root 173 Oct 11  2018 /etc/cron.weekly/zfs-auto-snapshot
+```
+
+So you can remove other than weekly file.
+
+```bash
+sudo rm /etc/cron.hourly/zfs-auto-snapshot
+sudo rm /etc/cron.daily/zfs-auto-snapshot
+sudo rm /etc/cron.monthly/zfs-auto-snapshot
+```
+
+If you want to test manually the automation and see the log.
+
+```
+sudo /etc/cron.weekly/zfs-auto-snapshot
+```
+
+```bash
+[SERV] f8un99@seb:~ Ψ zfs list -t snapshot
+NAME                                                USED  AVAIL  REFER  MOUNTPOINT
+kunfayakun@test1                                      0B      -  7.20G  -
+kunfayakun@zfs-auto-snap_frequent-2026-09-10-0747     0B      -  7.20G  -
+kunfayakun@zfs-auto-snap_weekly-2026-09-10-0758       0B      -  7.20G  -
+[SERV] f8un99@seb:~ Ψ 
+```

@@ -1,7 +1,7 @@
 
 ![[Screenshot_debian_2026-07-13_17 51 22.png]]
 
-1.  Install vim `apt install vim ;` ; Text Editor
+1.  Install nvim `apt install vim ;` ; Text Editor
 
 Error: The repository 'cdrom://[Debian GNU/Linux 13.6.0 Trixie - Official amd64 DVD Binary-1 with firmware 20260711-09:43] trixie Release' does not have a Release file.
 ```bash
@@ -60,6 +60,14 @@ GRUB_CMDLINE_LINUX=""
 sudo update-grub
 ```
 
+9. Install ssh
+
+```
+apt install openssh-server
+sudo systemctl start ssh
+sudo systemctl enable ssh
+sudo systemctl enable --now ssh
+```
 ### Errors
 
 1. username is not in sudoers file [[Chapter Z3 User (sudo)]].

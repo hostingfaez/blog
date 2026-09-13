@@ -11,17 +11,18 @@ Download : https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 
 ---
 
-Chapter 2 Installation & Configuration
+Chapter 2 Post-Installation Configurations
 - [[Chapter 2.1 Paritioning]]
 	- [[Chapter 2.1.1 1TB Partitioning]]
 - [[Chapter 2.2 Console Blank]]
 - [[Chapter 2.3 Memory Management]] ; setup zfs mirror
 - [[Chapter 2.4 Cannot Clear]] ; 'xterm-kitty': unknown terminal type
 - [[Chapter 2.5 Remove Unnecessary Packages]] ; Kalau install guna live ISO.
+- [[Chapter 2.6 Setup Bridge]] ; for those who want to setup VM and it acts as another physical device (for server hosting).
 
 ---
 
-Chapter 3 Installation & Configurations
+Chapter 3 Apps Installation & Configurations
 
 - [[Chapter 3.1 CasaOS]] ;
 	- [[Chapter 3.1.1 Cockpit]] (9090); ZFS Management 
@@ -39,6 +40,9 @@ Chapter 3 Installation & Configurations
 - [[Chapter 3.6 UPS]] 
 - [[Chapter 3.7 Fail2Ban]] ; An intrusion prevention software framework.
 - [[Chapter 3.8 SMTP Relay]]
+- [[Chapter 3.9 Rsync]] ; Backup your data from your server to another storage.
+- [[Chapter 3.10 Curl]] ; Download stuffs in the Internet without GUI
+
 
 ---
 
