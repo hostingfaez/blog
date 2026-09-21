@@ -15,7 +15,7 @@
 ### Security 
 
 ---
-- [[Threat Hunters]] (In Progress !)
+- [[Threat Hunters]] 
 - [[Chapter Z9 Layer 2 Security Best Practices for Securing Infrastructure]]
 - [[Chapter Z10 Deal With Vulnerability]]
 
@@ -35,6 +35,8 @@
 - [[Chapter Z11 Installing in Linux]]
 - [[Chapter Z12 Installing in Windows]]
 - [[Chapter Z13 Know Your Own Public IP]]
+- Chapter Z14 Tabletop Exercises ; https://www.cisecurity.org/ms-isac/tabletop-exercises-ttx
+- [[Chapter Z15 Shared Responsibility Model in Cloud Services]]
 
 ![[capitalist.jpg]]
 

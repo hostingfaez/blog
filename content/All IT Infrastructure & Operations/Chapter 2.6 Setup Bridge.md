@@ -79,10 +79,12 @@ ip -br a
 
 ### VM
 
-1. Check your interface name 
+1. Make sure interface untuk VM adalah bridge bukannya QEMU (192.168.122.x).vim
+2. Check your interface name 
 
 ```
 ip -br a
+apt update && apt install isc-dhcp-client -y
 ```
 
 2. Edit interface and set static IP. Its recommended for server to have static IP.
@@ -103,6 +105,7 @@ iface eth0 inet static
 3. Restart
 
 ```bash
+sudo ip addr flush dev enp1s0
 sudo systemctl restart networking
 ```
 

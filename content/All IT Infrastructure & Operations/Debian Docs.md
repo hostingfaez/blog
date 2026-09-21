@@ -37,6 +37,7 @@ Chapter 2 Installation
 	- Chapter 2.13.2 VimTex  For latex
 - [[Chapter 2.14 Live Viewer Website]] ; for live preview while editing website
 - [[Chapter 2.15 PlatformIO]] ; A cross-platform, cross-architecture ecosystem for embedded systems development.
+- [[Chapter 2.16 Wine]] 
 - [[Chapter 2.97 Gz Files]]
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]

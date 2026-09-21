@@ -6,6 +6,11 @@ Notes : Log update include changes to the framework or structure for **ALL** of 
 
 Update Version : MAJOR.MINOR.PATCH
 
+### Update 1.4.2
+13/09/2026 21:37
+- Commit :
+1. Clean URL for Profile (about me), Projects and Books
+
 ### Update 1.4.1
 31/08/2026 21:39
 - Commit :

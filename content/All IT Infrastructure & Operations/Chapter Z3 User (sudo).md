@@ -19,7 +19,7 @@ Kalau ada tak perlu buat boleh teruskan dengan lock root account. Kalau takde ke
 ```bash
 su -
 apt update && apt install -y sudo
-/usr/sbin/usermod- aG sudo username
+/usr/sbin/usermod -aG sudo username
 ```
 
 Lock root account (for security reasons)
