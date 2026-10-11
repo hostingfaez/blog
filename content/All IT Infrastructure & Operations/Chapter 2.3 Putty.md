@@ -5,3 +5,9 @@ Install : `sudo apt install putty`
 ls /dev/tty*
 ```
 
+Erase configuration
+
+```
+write erase
+reload
+```
