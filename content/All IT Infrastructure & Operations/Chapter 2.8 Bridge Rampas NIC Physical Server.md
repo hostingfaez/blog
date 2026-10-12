@@ -1,10 +1,10 @@
-Bridge specifically Open Switch Bridge (OVS) rampas NIC interface (enp2s0) so semua network akan route je bridge tu. Disebabkan aku dah configure network sebelum tu utk access service like Music, Movies, VPN etc menyebabkan aku takleh nak access service tu balik. 
+Bridge specifically Open Switch Bridge (OVS) rampas NIC interface (enp2s0) so semua network akan route je bridge tu. Disebabkan aku dah configure network sebelum tu utk access service like Music, Movies, VPN etc menyebabkan aku takleh nak access service tu balik. Dia akan prone to error if you have configured [[Chapter 2.6 Setup Bridge]].
 
 Ada banyak condition sebenarnya untuk NIC hilang ip / cause conflict and ni salah satunya.
-1. Multiple bridges bind to the same NIC 
-2. If you have virtual vms and just follow the command instead of understanding what the command does
+	1. Multiple bridges bind to the same NIC 
+	2. If you have banyak virtual machines and just follow the command instead of understanding what the command does
 
-3. Lepaskan port fizikal from OVS
+1. Lepaskan port fizikal from OVS
 
 ```bash
 sudo ovs-vsctl del-port ovs-br0 enp2s0
