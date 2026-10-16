@@ -15,12 +15,13 @@ Chapter 2 Post-Installation Configurations
 - [[Chapter 2.1 Paritioning]]
 	- [[Chapter 2.1.1 1TB Partitioning]]
 - [[Chapter 2.2 Console Blank]]
-- [[Chapter 2.3 Memory Management]] ; setup zfs mirror
+- [[Chapter 2.3 Memory Management (ZFS Mirror)]] 
 - [[Chapter 2.4 Cannot Clear]] ; 'xterm-kitty': unknown terminal type
 - [[Chapter 2.5 Remove Unnecessary Packages]] ; Kalau install guna live ISO.
 - [[Chapter 2.6 Setup Bridge]] ; for those who want to setup VM and it acts as another physical device (for server hosting).
 - [[Chapter 2.7 Save System Config Files]] ; If SSD OS cannot boot.
 - [[Chapter 2.8 Bridge Rampas NIC Physical Server]]
+- [[Chapter 2.9 Memory Management (ZFS->Backup Drive using Cron)]]
 
 ---
 
@@ -44,6 +45,7 @@ Chapter 3 Apps Installation & Configurations
 - [[Chapter 3.8 SMTP Relay]]
 - [[Chapter 3.9 Rsync]] ; Backup your data from your server to another storage.
 - [[Chapter 3.10 Curl]] ; Download stuffs in the Internet without GUI
+- [[Chapter 3.11 Cloudflared]] ; A service that lets you connect your web apps, APIs, or other servers to Cloudflare without using a publicly routable IP address.
 
 
 ---
