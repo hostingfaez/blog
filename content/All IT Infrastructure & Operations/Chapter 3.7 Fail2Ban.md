@@ -20,5 +20,11 @@ sudo fail2ban-client status sshd
 sudo fail2ban-client set sshd unbanip <IP_ADDRESS>
 ```
 
+Server
+
+```bash
+fail2ban-client set axl-login unbanip 203.0.113.9
+```
+
 
 

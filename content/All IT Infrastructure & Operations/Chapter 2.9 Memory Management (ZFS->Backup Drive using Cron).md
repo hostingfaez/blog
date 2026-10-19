@@ -7,7 +7,7 @@ vim  ~/script.sh
 
 ```bash
 #!/bin/bash
-# Skrip Backup dari ZFS Pool kunfayakun ke pemacu 2TB (sdc)
+# Skrip Backup dari ZFS Pool to another drive (sdc)
 
 SRC="/SRC_MEDIA/"
 DEST="/DEST_MEDIA/"

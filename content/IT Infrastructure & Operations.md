@@ -37,6 +37,7 @@
 - [[Chapter Z13 Know Your Own Public IP]]
 - Chapter Z14 Tabletop Exercises ; https://www.cisecurity.org/ms-isac/tabletop-exercises-ttx
 - [[Chapter Z15 Shared Responsibility Model in Cloud Services]]
+- [[Chapter Z16 Setup SSH for Windows]]
 
 ![[capitalist.jpg]]
 

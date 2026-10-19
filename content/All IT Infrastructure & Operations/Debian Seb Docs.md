@@ -46,6 +46,7 @@ Chapter 3 Apps Installation & Configurations
 - [[Chapter 3.9 Rsync]] ; Backup your data from your server to another storage.
 - [[Chapter 3.10 Curl]] ; Download stuffs in the Internet without GUI
 - [[Chapter 3.11 Cloudflared]] ; A service that lets you connect your web apps, APIs, or other servers to Cloudflare without using a publicly routable IP address.
+- Chapter 3.12 Caddy ; Reverse proxy
 
 
 ---
