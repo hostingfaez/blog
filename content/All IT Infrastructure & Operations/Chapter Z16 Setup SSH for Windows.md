@@ -1,4 +1,4 @@
-> Note: This page is created to make Windows client is open for SSH (Win 10). 
+> Note: This page is created to make Windows client is open for SSH (Win 10). This is optional if you have Windows VM in your server.
 
 
 1. Install SSH in Windows in Powershell (Run As Administrator)
