@@ -28,7 +28,8 @@ Parent Item: [[Hike to Gunung Angsi !]]
 - [[Land Rover 4x4 In Schools National Finals]]
 - [[Diploma]]
 - [[Konvokesyen Diploma !]]
-
+- [[My First Hackathon and We Won !]]
+- [[SEA x OpenAI Regional Codex Hackathon - Malaysia]]
 ### Dubai (Recommended!)
 ---
 Parent Item: [[Dubai Dumps]]
@@ -60,6 +61,5 @@ Parent Item: [[Diploma Internship !]]
 - [[Tuan Aznil]]
 - [[First Bicycle Ride in Jasin]]
 - [[Books I've Read]] 
-- [[My First Hackathon and We Won !]]
 - [[Hilangkan Bengkak dengan Daun]]
 - [[My Accounts Got Hacked]]

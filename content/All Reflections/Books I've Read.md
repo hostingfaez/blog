@@ -12,8 +12,9 @@
 8. Teme Abdullah. (2016). Pelukis Jalanan. Iman Publications 
 9. Teme Abdullah. (2018). Arkitek Jalanan. Iman Publications
 10. Newport, C. (2019). Digital Minimalism: Choosing a Focused Life in a Noisy World. Portfolio/Penguin 
-11. Goggins, D. (2018). Can’t Hurt Me : Master Your Mind And Defy The Odds. BookBaby. 
-12. The Secrets of Mahathir's Years ; I can't find the book in the ISBN database.
+11. Goggins, D. (2018). Can’t Hurt Me : Master Your Mind And Defy The Odds. BookBaby.
+12. Housel, M. (2025). The Art of Spending Money: Simple Choices for A Richer Life. Portfolio/Penguin.
+13. The Secrets of Mahathir's Years ; I can't find the book in the ISBN database.
 
 ![[Pasted image 20260923204053.png]]
 

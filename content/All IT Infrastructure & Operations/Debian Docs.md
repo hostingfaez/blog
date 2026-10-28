@@ -40,6 +40,7 @@ Chapter 2 Installation
 - [[Chapter 2.16 Wine]] 
 - [[Chapter 2.17 Venv]]
 - [[Chapter 2.18 Quartz]]
+- Chapter 2.19 GNS3 ; https://docs.gns3.com/docs/getting-started/installation/linux 
 - [[Chapter 2.97 Gz Files]]
 - [[Chapter 2.98 Appimage Files]]
 - [[Chapter 2.99 Deb Files]]
