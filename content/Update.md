@@ -6,6 +6,11 @@ Notes : Log update include changes to the framework or structure for **ALL** of 
 
 Update Version : MAJOR.MINOR.PATCH
 
+### Update 1.4.3
+28/10/2026 22:34
+- Commit :
+1. Fully transfer blog files to server 
+2. Edit and access files remotely 
 ### Update 1.4.2
 13/09/2026 21:37
 - Commit :
