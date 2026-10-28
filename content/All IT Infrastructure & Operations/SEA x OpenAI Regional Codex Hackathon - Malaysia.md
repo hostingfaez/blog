@@ -1,15 +1,18 @@
 
 Venue : 
+
 Role : 
 
-Date : 21/10/2026
+### Preparation
+
+1. Date : 21/10/2026
 
 ![[Pasted image 20261021210212.png]]
 
 - First meeting untuk pitch idea nak buat untuk hackathon
 - Bincang framework and flow app
 
-Date : 22/10/2026
+2. Date : 22/10/2026
 
 ![[Pasted image 20261022200753.png]]
 
@@ -22,7 +25,7 @@ Date : 22/10/2026
 	Exp : Data tak complete
 
 
-Date : 28/10/2026
+3. Date : 28/10/2026
 
 ![[Pasted image 20261028190236.png]]
 

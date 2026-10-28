@@ -29,7 +29,7 @@ Parent Item: [[Hike to Gunung Angsi !]]
 - [[Diploma]]
 - [[Konvokesyen Diploma !]]
 - [[My First Hackathon and We Won !]]
-- [[SEA x OpenAI Regional Codex Hackathon - Malaysia]]
+
 ### Dubai (Recommended!)
 ---
 Parent Item: [[Dubai Dumps]]
