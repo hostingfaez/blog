@@ -75,7 +75,13 @@ cmake ..
 make install
 ```
 
+8. Tambah Port
 
+- **`PA-2FE-TX`**: Menambah 2 port FastEthernet (contoh: `Fa1/0`, `Fa1/1`).
+    
+- **`PA-GE`**: Menambah 1 port GigabitEthernet (contoh: `Gi1/0`).
+    
+- **`PA-8T` / `PA-4T+`**: Menambah port Serial untuk laluan WAN/PPP/HDLC (contoh: `S1/0`, `S1/1`).
 ### Error
 
 1. CMake Error

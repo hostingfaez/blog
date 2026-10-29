@@ -59,3 +59,21 @@ virsh autostart namaserver
 ```bash
 sudo curl -L -o namaoutput.iso https://...
 ```
+
+5. Buat storage untuk simulate USB pendrive Exp: 12G
+
+```bash
+sudo fallocate -l 12G /var/lab_storage.img
+```
+
+Kalau untuk filesystem Windows (NTFS)
+
+```bash
+sudo mkfs.ntfs -f /var/lab_storage.img
+```
+
+Change permission to write
+
+```bash
+chmod +x /var/lab_storage.img
+```
