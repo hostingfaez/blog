@@ -37,3 +37,13 @@ Role :
 	2. Why these features
 	3. Who are the stakeholders
 	4. Present macam nak jual app dekat judges
+
+4. Date : 04/11/2026
+
+![[Pasted image 20261105081120.png]]
+
+- Propose UI app for every page and flow in detail untuk bagi lebih jelas 
+- Kena buat changes untuk contribution price 
+	1. Macam mana nak display current price untuk orang yang abuse harga and harga semua barang since harga barang basah especially tukar daily 
+	2. Flag price button untuk barang yang kena abuse
+- Event innovation

@@ -1,10 +1,15 @@
 
 Docs Link : https://docs.gns3.com/docs/getting-started/installation/remote-server 
+Images : https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG 
+Docker Images (optional)
+1. Netmiko : gns3/network_automation
+2. Servers : gns3/webterm
+3. PC : Alpine 
 
 > If you are using Ubuntu as your server then you can proceed with the docs page from GNS3 or you will get an error.
 
 
-1. Install
+4. Install
 
 ```bash
 pipx install gns3-server
@@ -82,6 +87,33 @@ make install
 - **`PA-GE`**: Menambah 1 port GigabitEthernet (contoh: `Gi1/0`).
     
 - **`PA-8T` / `PA-4T+`**: Menambah port Serial untuk laluan WAN/PPP/HDLC (contoh: `S1/0`, `S1/1`).
+
+9. Install VNC (optional if you have server in your topology)
+
+Server
+
+```bash
+sudo apt install -y tigervnc-standalone-server tigervnc-common x11vnc
+```
+
+Client
+
+```bash
+sudo apt install tigervnc-viewer
+```
+
+9. Setup VM (alpine) & Cloud node connected to **physical Server NIC** to install packages.
+
+Run DHCP process
+
+```bash
+udhcpc
+```
+
+ Try ping 
+```bash
+ping -c 8.8.8.8
+```
 ### Error
 
 1. CMake Error
