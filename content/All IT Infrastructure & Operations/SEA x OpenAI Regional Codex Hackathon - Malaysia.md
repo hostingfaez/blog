@@ -1,6 +1,5 @@
 
 Venue : 
-
 Role : 
 
 ### Preparation

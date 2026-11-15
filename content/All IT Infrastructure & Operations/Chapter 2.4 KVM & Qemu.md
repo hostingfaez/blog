@@ -60,7 +60,13 @@ virsh autostart namaserver
 sudo curl -L -o namaoutput.iso https://...
 ```
 
-5. Buat storage untuk simulate USB pendrive Exp: 12G
+5. Tutup semua virtual machine
+
+```bash
+sudo virsh list --name | xargs -r -n1 sudo virsh shutdown
+```
+
+6. Buat storage untuk simulate USB pendrive Exp: 12G
 
 ```bash
 sudo fallocate -l 12G /var/lab_storage.img
